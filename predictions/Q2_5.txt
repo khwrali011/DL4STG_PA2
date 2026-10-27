@@ -1,0 +1,3 @@
+Q2.5 - recorded before baseline transformation and speed experiments
+
+I expect A to be imperfect under both mirror and rotation, with rotation usually harder because upright digit appearance is absent after rotation. The measured flow median is 3.3175 pixels/frame; 2x and 3x correspond to approximately 6.635 and 9.95251. A has a one-step reach of 8 pixels per axis (8 sqrt(2) along a diagonal); I expect worsening at higher speeds, especially when displacement components exceed 8 pixels, but this is a hypothesis, not a hard speed cutoff.
