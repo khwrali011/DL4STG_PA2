@@ -1,0 +1,3 @@
+Q2.11 - recorded before B-D training
+
+I expect B to reduce mirror and rotation errors by exposing it to transformed digit appearances, although augmentation cannot guarantee exact consistency. I expect C to improve speed generalisation through examples of faster motion, while its one-step reach remains unchanged. I expect D to help where C remains limited by local communication, although its dilated sampling can miss fine details and none of these changes guarantees a gain.
