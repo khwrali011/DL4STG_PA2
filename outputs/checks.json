@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "A_parameters": 480784,
+  "D_parameters": 480784,
+  "A_reach_pixels_Linf": 8,
+  "D_reach_pixels_Linf": 16,
+  "synthetic_symmetrisation_gaps": {
+    "M": 8.694434273353994e-16,
+    "R": 1.0173286036624222e-15
+  },
+  "scope": "CPU correctness checks; not trained model performance"
+}

@@ -1,0 +1,24 @@
+{
+  "verified": [
+    "Python files and notebook code cells parse",
+    "Synthetic Table 1 rows a-h match exactly",
+    "All eight group transforms invert exactly",
+    "All permitted speed-window starts have at least two targets",
+    "Masked loss weights each video equally",
+    "A and D each have 480784 trainable parameters",
+    "Nine-step forecast shape and backward gradient checks pass",
+    "Group averaging gives near-zero gaps on an asymmetric synthetic function",
+    "Synthetic Adam checkpoint restore matches uninterrupted next update exactly on CPU",
+    "Submission gate rejects missing experimental results",
+    "Draft PDF rendered and visually inspected"
+  ],
+  "not_verified": [
+    "CUDA execution",
+    "Kaggle runtime execution",
+    "Moving MNIST download in current environment",
+    "Full 30-epoch training",
+    "Test-set metrics",
+    "Optical flow and data-driven figure generation"
+  ],
+  "completion": "Implementation package prepared; empirical assignment incomplete"
+}

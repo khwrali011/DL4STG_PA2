@@ -1,0 +1,42 @@
+[
+  {
+    "check": "a",
+    "expected": "0; torch.equal=True",
+    "yours": "0.0; torch.equal=True"
+  },
+  {
+    "check": "b",
+    "expected": "0; torch.equal=True",
+    "yours": "0.0; torch.equal=True"
+  },
+  {
+    "check": "c",
+    "expected": "0; torch.equal=True",
+    "yours": "0.0; torch.equal=True"
+  },
+  {
+    "check": "d",
+    "expected": "(7, 10, 43)",
+    "yours": "(7, 10, 43)"
+  },
+  {
+    "check": "e",
+    "expected": "(7, 43, 10)",
+    "yours": "(7, 43, 10)"
+  },
+  {
+    "check": "f",
+    "expected": "([1, 2, 3, 4, 5], [6, 7, 8, 9, 10])",
+    "yours": "([1, 2, 3, 4, 5], [6, 7, 8, 9, 10])"
+  },
+  {
+    "check": "g",
+    "expected": "([1, 3, 5, 7, 9], [11, 13, 15, 17, 19])",
+    "yours": "([1, 3, 5, 7, 9], [11, 13, 15, 17, 19])"
+  },
+  {
+    "check": "h",
+    "expected": "([1, 4, 7, 10, 13], [16, 19])",
+    "yours": "([1, 4, 7, 10, 13], [16, 19])"
+  }
+]

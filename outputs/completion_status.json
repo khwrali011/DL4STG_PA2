@@ -1,0 +1,21 @@
+{
+  "submission_ready": false,
+  "missing": [
+    "Visual confirmation of overlap/separation examples",
+    "Public GitHub URL",
+    "Public repository confirmation",
+    "Result-based answer Q2.1",
+    "Result-based answer Q2.4",
+    "Result-based answer Q2.7",
+    "Result-based answer Q2.8",
+    "Result-based answer Q2.9",
+    "Result-based answer Q2.13",
+    "Result-based answer Q2.14",
+    "Result-based answer Q2.15",
+    "Result-based answer Q2.16",
+    "Result-based answer Q2.17",
+    "AI disclosure: actual edits/review",
+    "Prediction texts and Git history reviewed"
+  ],
+  "note": "The full assignment requires Q1 and Q2 together in one PDF; this package covers Q2 only."
+}

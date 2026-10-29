@@ -1,0 +1,18 @@
+{
+  "CM": [
+    9613,
+    9765
+  ],
+  "CR": [
+    9279,
+    9884
+  ],
+  "figure2": [
+    9001,
+    9000,
+    9002
+  ],
+  "speed": 9026,
+  "reviewed": false,
+  "note": "Overlap and separation selected by connected-component heuristic; visually verify and set reviewed=true."
+}
